@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Proyectos/MemoriasExpo/TB_MemoriaRAM_isim_beh.exe" -prj "/home/ise/Desktop/Proyectos/MemoriasExpo/TB_MemoriaRAM_beh.prj" "work.TB_MemoriaRAM" 
